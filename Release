@@ -1,8 +1,8 @@
-Origin: Free Repo
-Label: Free Repo
+Origin: 0A
+Label: 0A
 Suite: stable
 Version: 1.0
-Codename: cydia-ios
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Free Repo For You
+Description: https://moj3ve.github.io/A/
